@@ -4,7 +4,7 @@ use Mockery as m;
 
 class RouterTest extends Orchestra\Testbench\TestCase {
 
-    const classPath = "Optimus\ApiConsumer\Router";
+    const classPath = "Iphuongtt\ApiConsumer\Router";
 
     private $appMock;
 

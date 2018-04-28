@@ -1,6 +1,6 @@
 <?php
 
-use Optimus\ApiConsumer\Facade\ApiConsumer as ApiConsumerFacade;
+use Iphuongtt\ApiConsumer\Facade\ApiConsumer as ApiConsumerFacade;
 
 class StubFacade extends ApiConsumerFacade {
     public function getAccessor()

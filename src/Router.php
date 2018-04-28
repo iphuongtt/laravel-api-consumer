@@ -1,6 +1,6 @@
 <?php
 
-namespace Optimus\ApiConsumer;
+namespace Iphuongtt\ApiConsumer;
 
 use Illuminate\Foundation\Application;
 use Illuminate\Http\Request;

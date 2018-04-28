@@ -13,7 +13,7 @@ class LaravelServiceProviderTest extends Orchestra\Testbench\TestCase {
             m::type('Closure')
         );
 
-        $provider = $this->app->make('Optimus\ApiConsumer\Provider\LaravelServiceProvider', [
+        $provider = $this->app->make('Iphuongtt\ApiConsumer\Provider\LaravelServiceProvider', [
             $appMock
         ]);
 

@@ -1,11 +1,11 @@
 <?php
 
-namespace Optimus\ApiConsumer\Facade;
+namespace Iphuongtt\ApiConsumer\Facade;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \Optimus\ApiConsumer\Router
+ * @see \Iphuongtt\ApiConsumer\Router
  */
 class ApiConsumer extends Facade
 {
